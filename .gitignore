@@ -1,0 +1,17 @@
+.aumenv/ 
+*.log 
+.env 
+__pycache__/ 
+*.pyc 
+*.csv 
+*.pkl 
+*.parquet 
+data/ 
+secrets/ 
+compliance_report.json 
+htmlcov/ 
+*.swp 
+.vscode/ 
+.idea/ 
+cert.pem 
+key.pem 
